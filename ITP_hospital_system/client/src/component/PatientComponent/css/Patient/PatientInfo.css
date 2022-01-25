@@ -1,0 +1,70 @@
+.PatientView {
+    width : auto;
+}
+
+.PatientViewhead {
+    margin-left: 550px;
+    padding-top:25px;
+    padding-bottom: 25px;
+   margin-top: 0;
+
+}
+
+.PatientView table {
+    border: 2px solid black;
+    width: auto;
+}
+
+.PatientView th {
+    padding-left: 15px;
+    padding-right: 15px;
+    border-bottom: 1px solid black;
+    width: auto;
+}
+.PatientView td{
+    text-align: center;
+}
+
+.PatientViewlong {
+    width: auto;
+}
+
+.PatientView td {
+    padding-left: 15px;
+    padding-right: 15px;
+    width: auto;
+}
+
+
+
+#patshort{
+    width: 100px;
+}
+.PatientViewedit {
+    background-color: none;
+    width: 60px;
+    height: auto;
+    font-size: small;
+    text-decoration: none;
+    margin-top: 20px;
+    margin-left: 10px;
+    padding: 5px 5px 5px 5px;
+    margin-bottom: 5px;
+    background-color:aliceblue;
+    font-weight: bold;
+}
+
+.PatientViewdelete {
+    background-color: none;
+    width: 60px;
+    height: auto;
+    font-size: small;
+    text-decoration: none;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 5px 5px 5px 5px;
+    margin-bottom: 5px;
+    background-color:aliceblue;
+    font-weight: bold;
+}

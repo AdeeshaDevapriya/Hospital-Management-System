@@ -1,0 +1,23 @@
+.RoomSearchtable{
+    background-color:rgb(208, 208, 255);
+    width: 100%;
+    border: 2px solid rgb(193, 207, 216);
+    border-radius: 5px;
+}
+
+.searchRoomDetails{
+    color: rgb(13, 13, 77);
+}
+/* 
+.th, td {
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+  } */
+
+.theadroom{
+    width: 100%;
+}
+
+.tbodyroom{
+    width: 100%;
+}

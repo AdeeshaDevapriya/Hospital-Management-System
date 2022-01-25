@@ -1,0 +1,24 @@
+.btnRup{
+    background-color: aliceblue;
+    color: rgb(255, 255, 255)
+}
+
+.btnRde{
+    color: rgb(17, 17, 58)
+}
+
+
+.tableRoomView{
+    width: 100%;
+    border: 2px solid rgb(193, 207, 216);
+    border-radius: 5px;
+
+}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+  }
+
+  tr:hover {background-color: rgb(233, 239, 240);}
+  tr:nth-child(even) {background-color: #f2f2f2;}

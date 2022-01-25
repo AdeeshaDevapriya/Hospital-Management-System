@@ -1,0 +1,157 @@
+.sthead h1 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: bold;
+  color: #23345d;
+  font-size: 70px;
+}
+
+.sthead h3 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 38px;
+}
+
+.sthead h6 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: semi-bold;
+  font-size: 20px;
+}
+
+.sthead {
+  margin-left: 250px;
+}
+
+button.input-group-text {
+  background-color: #23345d;
+  color: white;
+}
+
+.search {
+  max-width: 900px;
+  margin-left: 300px;
+  margin-top: 70px;
+}
+.img-fluid {
+  max-width: 25rem;
+}
+
+.dashImageJ {
+  margin-top: -200px;
+}
+
+.mainDiv {
+  display: grid;
+  grid-template-columns: 58% 42%;
+  box-sizing: border-box;
+}
+
+.StquickStart {
+  color: darkgray;
+  margin-left: 20%;
+}
+
+.stquickbtn {
+  margin-left: 20%;
+  display: grid;
+  grid-template-columns: 25% 25% 25%;
+  box-sizing: border-box;
+  fill: lightgray;
+}
+
+.stQuickAdmin1 {
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+  background-color: #f6efef;
+  margin-left: 300px;
+  margin-top: 10px;
+  position: absolute;
+}
+
+.stQuickAdmin1 h4 {
+  margin-top: 120px;
+  margin-left: 20px;
+  color: #23345d;
+  font-size: 30px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: bold;
+}
+
+.stQuickAdmin1 h6 {
+  margin-top: 5px;
+  margin-left: 20px;
+  color: black;
+  font-size: 10px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.stQuickAdmin2 {
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+  background-color: #f6efef;
+  margin-left: 600px;
+  margin-top: 10px;
+  position: absolute;
+}
+
+.stQuickAdmin2 h4 {
+  margin-top: 120px;
+  margin-left: 20px;
+  color: #23345d;
+  font-size: 30px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: bold;
+}
+
+.stQuickAdmin2 h6 {
+  margin-top: -11px;
+  margin-left: 20px;
+  color: black;
+  font-size: 10px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.stQuickAdmin3 {
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+  background-color: #f6efef;
+  margin-left: 900px;
+  margin-top: 10px;
+  position: absolute;
+}
+
+.stQuickAdmin3 h4 {
+  margin-top: 120px;
+  margin-left: 20px;
+  color: #23345d;
+  font-size: 30px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: bold;
+}
+
+.stimg-reg {
+  max-width: 8rem;
+  margin-top: -290px;
+  margin-left: 25px;
+}
+
+.stimg-user {
+  max-width: 7rem;
+  margin-top: -270px;
+  margin-left: 50px;
+}
+
+.stimg-resreq {
+  max-width: 7rem;
+  margin-top: -300px;
+  margin-left: 50px;
+}

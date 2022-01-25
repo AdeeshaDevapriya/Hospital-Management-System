@@ -1,0 +1,84 @@
+.aptcancelEdit{
+    width: 140px;
+    height: 30px;
+    font-size: medium;
+    background-color: #080672;
+    color: white;
+    cursor: pointer;
+    position: absolute;
+    left: 30%;
+    top: 79%;
+}
+
+#pateditsubmit {
+    width: 140px;
+    height: 31px;
+    font-size: medium;
+    background-color: #080672;
+    cursor: pointer;  
+    margin-left: 650px;  
+}
+#editgender{
+    width: 80px;
+}
+#aptstatus{
+    width: 100px;
+    text-align: center;
+}
+.patientedit input[name="did"]{
+    margin-left: 22px;
+    margin-right: 20px;
+}
+.patientedit input[name="mobile"]{
+    margin-left: 34px;
+}
+.patientedit input[name="email"]{
+    margin-left: 76px;
+    margin-right: 80px;
+}
+.patientedit input[name="fname"]{
+    margin-left: 36px;
+    margin-right: 120px;
+    width: 150px;
+}
+.patientedit input[name="pid"]{
+    margin-left: 42px;
+    width: 250px;
+    text-align: center;
+    margin-right: 20px;
+}
+.patientedit input[name="ano"]{
+    width: 40px;
+    text-align: center;
+    margin-right: 20px;
+}
+.patientedit input[name="age"]{
+    width: 40px;
+    text-align: center;
+    margin-left: 10px;
+}
+.patedith1{
+    margin-left:680px;
+    font-size:36px;
+    color: #080672;
+    padding-top: 36px;
+
+}
+.patientedit input[name="lname"]{
+    margin-left: 10px;
+    width: 150px;
+}
+.patientedit input[name="gender"]{
+    margin-left: 10px;
+    text-align: center;
+    height: auto;
+}
+.patientedit input[name="date"]{
+    margin-left: 10px;
+    text-align: center;
+    width: 160px;
+}
+.patientedit{
+    background-color: aliceblue;
+    padding: 10px, 20px;
+}

@@ -1,0 +1,19 @@
+.Sidenav nav {
+  width: 200px;
+  height: 100vh;
+  position: fixed;
+  background-color: #23345d;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+
+  /* border-radius: 30px; */
+}
+
+.nav-link {
+  font-weight: bold;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white !important;
+  text-decoration: none;
+  margin-top: 40px;
+  margin-left: 40px;
+}

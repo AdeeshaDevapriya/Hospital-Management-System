@@ -1,0 +1,55 @@
+.PMHome h1{
+    color: darkblue;
+    margin-left: 500px;
+    font-size: 60px;
+}
+.PRbtn{
+    margin-left: 560px;
+    margin-top: 60px;
+    width: 250px;
+    height:200px;
+    background-color: #080672;
+    color: white;
+    font-size:25px;
+}
+.PRbtn:hover{
+    color:lawngreen;
+}
+.PIDbtn {
+    position: absolute;
+    top: 19.5%;
+    margin-left: 150px;
+    width: 250px;
+    height: 200px;
+    background-color: #080672;
+    color: white;
+    font-size: 25px;
+}
+.PIDbtn:hover{
+    color:lawngreen;
+}
+.ADbtn{
+    margin-left: 560px;
+    margin-top: 60px;
+    width: 250px;
+    height:200px;
+    background-color: #080672;
+    color: white;
+    font-size:25px;
+}
+.ADbtn:hover{
+    color:lawngreen;
+}
+.RMbtn{
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 150px;
+    width: 250px;
+    height: 200px;
+    background-color: #080672;
+    color: white;
+    font-size: 25px;
+}
+.RMbtn:hover{
+    color:lawngreen;
+}

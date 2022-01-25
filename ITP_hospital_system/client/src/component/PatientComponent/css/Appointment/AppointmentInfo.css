@@ -1,0 +1,32 @@
+.infoPatheader{
+    margin-left: 600px;
+    font-size:36px;
+    padding-top:36px;
+    color: #080672;
+}
+.infoPattable{
+    border: 5px solid #080672;
+    background-color:aliceblue;
+    margin-left:530px;
+    font-size: larger;
+    padding: 40px, 40px;
+    width:auto;
+}
+#infoPattr td{
+    padding: 10px;
+}
+.infoaptback{
+    margin-left: 530px;
+    margin-top: 15px;
+    width: 100px;
+    background-color: #080672;
+    color: white;
+    font-size:large;
+}
+.infoaptedit{
+    width: 100px;
+    background-color: #080672;
+    color: white;
+    font-size: large;
+    margin-left: 375px;
+}

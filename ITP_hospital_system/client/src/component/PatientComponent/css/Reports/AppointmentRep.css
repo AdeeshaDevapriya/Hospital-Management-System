@@ -1,0 +1,20 @@
+.AppointmentRep h1{
+    margin-left: 600px;
+    font-size: 40px;
+    color: #080672;
+    padding-top: 20px;
+}
+.AppointmentRepform{
+    margin-left: 700px;
+    margin-top: 36px;
+}
+.AppointmentRepform input[type="month"]{
+    margin-right: 30px;
+}
+.AppointmentRepform input[type="submit"]{
+    margin-left: 10px;
+    height: 30px;
+    width: 150px;
+    background-color: #080672;
+    color: white;
+}

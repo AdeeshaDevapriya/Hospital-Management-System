@@ -1,0 +1,13 @@
+.Roomcontainer{
+    margin-left: 13%;
+}
+
+.formAddRoom{
+    background-color: rgb(203, 214, 223);
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    border: 2px solid rgb(218, 221, 223);
+    border-radius: 5px;
+}

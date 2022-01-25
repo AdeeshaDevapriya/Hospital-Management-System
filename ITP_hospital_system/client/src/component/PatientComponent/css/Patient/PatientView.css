@@ -1,0 +1,40 @@
+.viewpatheader{
+    margin-left: 560px;
+    font-size:40px;
+    font-weight:bold;
+    padding-top:10px;
+    color:#080672;
+}
+.viewpattable{
+    border:5px solid #080672;
+    margin-left: 450px;
+    padding: 25px, 25px;
+    width:auto;
+    background-color: aliceblue;
+}
+.viewpattr{
+    margin-top: 25px;
+    margin-left: 20px;
+    font-size: larger;
+}
+.viewpattable td{
+    margin-left: 20px;
+    padding: 10px;
+}
+.patviewback{
+    margin-left: 450px;
+    margin-top: 10px;
+    width: 140px;
+    height:30px;
+    background-color:#080672;
+    color:white;
+    font-size:large;
+}
+.patviewedit{
+    margin-left:315px;
+    width : 140px;
+    height :30px;
+    background-color: #080672;
+    color:white;
+    font-size: large;
+}

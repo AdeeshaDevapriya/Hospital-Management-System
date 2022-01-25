@@ -1,0 +1,99 @@
+.patientapph1{
+    margin-left: 650px;
+    margin-bottom: 25px;
+    font-size: 40px;
+    padding-top: 36px;
+}
+.patientappform{
+    width :auto;
+    height:auto;
+    margin-left: 25%;
+    max-width: 900px;
+    border: 5px solid #080672;
+    background-color: aliceblue;
+}
+
+.patientappform label {
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+#patreggenfe{
+    margin-left: 40px;
+}
+.patientappform input{
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.patientappform input[value="female"] {
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 35px;
+    width: 16px;
+    height: 16px;
+}
+.patientappform input[name="ano"] {
+    margin-left: 16px;
+    width: 40px;
+    text-align: center;
+    margin-right: 152px;
+}
+.patientappform input[value="male"] {
+    position: absolute;
+    margin-left: 10px;
+    width: 16px;
+    height: 16px;
+    margin-top: 35px;
+}
+.patientappform input[name="land"] {
+    margin-left: 40px;
+}
+.patientappform input[name="mobile"] {
+    margin-left: 25px;
+}
+.patientappform input[name="email"] {
+    margin-left: 65px;
+}
+.patientappform input[name="age"] {
+    width: 40px;
+    margin-left: 10px;
+    text-align: center;
+}
+.patientappform input[name="fname"] {
+    margin-left: 25px;
+}
+.patientappform input[type = "submit"] {
+    width:150px;
+    height:30px;
+    font-size: 16px;
+    padding-bottom: 5px;
+    margin-left: 350px;
+    background-color:#080672;
+    color: white;
+}
+
+.patientappformLGen{
+    margin-left:85px;
+}
+
+.patientappform input[name="lname"] {
+    margin-right: 40px;
+    margin-left: 25px;
+}
+.patientappform input[type = "checkbox"] {
+    margin-left: 10px;
+    margin-top: 35px;
+    height: 15px;
+    width: 15px;
+    position: absolute;
+}
+.patientappform input[name="date"] {
+    margin-right: 30px;
+    width: 170px;
+}
+.patientappform select{
+    margin-left: 10px;
+    padding: 1.5px;
+}

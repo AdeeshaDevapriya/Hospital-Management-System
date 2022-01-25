@@ -1,0 +1,99 @@
+/* .Mainpagebuttons{
+    color: rgb(255, 255, 255);
+    background: rgb(8, 35, 66);
+    border-radius :12px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+    margin-left: -600px;
+} */
+
+.Roomimg1{
+    width: 350px;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 200px;
+    border: 1px solid rgb(223, 224, 248);
+}
+
+.Roomimg2{
+    width: 350px;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 50px;
+    border: 1px solid rgb(223, 224, 248);
+}
+
+.Roomimg3{
+    width: 350px;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 50px;
+    border: 1px solid rgb(223, 224, 248);
+}
+
+.CategoryType1btn{
+    width: 400px;
+    height: 300px;
+    color: rgb(0, 0, 0);
+    background: rgb(162, 244, 255);
+    border-radius :12px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+    margin-left: -600px;
+
+}
+
+.CategoryType2btn{
+    width: 400px;
+    height: 300px;
+    color: rgb(0, 0, 0);
+    background: rgb(107, 250, 255);
+    border-radius :12px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 100px;
+
+}
+
+.CategoryType3btn{
+    width: 400px;
+    height: 300px;
+    color: rgb(0, 0, 0);
+    background: rgb(50, 212, 218);
+    border-radius :12px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-left: -600px;
+}
+
+.CategoryType4btn{
+    width: 400px;
+    height: 300px;
+    color: rgb(0, 0, 0);
+    background: rgb(8, 163, 168);
+    border-radius :12px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.catTypeintro{
+    text-align: left;
+    font-family: cursive;
+    font-style: italic;
+    opacity: 0.5;
+}

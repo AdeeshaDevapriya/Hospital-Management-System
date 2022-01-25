@@ -1,0 +1,78 @@
+.PatientView {
+    width : auto;
+}
+
+.PatientView h1 {
+    margin-left: 650px;
+    font-size:40px;
+    padding-top: 36px;
+}
+
+.PatientViewhead {
+    margin-left: 600px;
+    margin-top:25px;
+}
+
+.PatientView table {
+    border: 2px solid black;
+    margin-left: 320px;
+    width: auto;
+}
+
+.PatientView td {
+    padding-left: 25px;
+    padding-right: 15px;
+}
+
+.PatientViewedit {
+    background-color: none;
+    width: 100px;
+    height: auto;
+    font-size: small;
+    text-decoration: none;
+    margin-top: 20px;
+    margin-left: 10px;
+    padding: 5px 5px 5px 5px;
+    margin-bottom: 5px;
+    background-color:aliceblue;
+    font-weight: bold;
+}
+
+.PatientViewdelete {
+    background-color: none;
+    width: 100px;
+    height: auto;
+    font-size: small;
+    text-decoration: none;
+    margin-top: -10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 5px 5px 5px 5px;
+    margin-bottom: 5px;
+    background-color:aliceblue;
+    font-weight: bold;
+}
+
+.PatientView table th {
+    padding-left:20px;
+    padding-right:20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size:20px;
+    border-bottom: 2px solid black;;
+}
+.Apnaddbtn{
+    margin-top: 40px;
+    margin-bottom:20px;
+    margin-left:700px;
+    height:40px;
+    width: 200px;
+    background-color:rgb(5, 18, 54);
+    font-weight: bold;
+    font-size:large;
+    color: white;
+}
+.PatientView button a{
+    text-decoration: none;
+    color: white;
+}

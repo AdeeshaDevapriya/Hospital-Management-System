@@ -1,0 +1,29 @@
+.imgsint4 {
+    float: right;
+    width: 40%;
+    cursor: pointer;
+}
+.center1 {
+    border-radius: 25px;
+    color: rgb(252, 252, 253);
+    font-size: 30px;
+    float: left;
+    margin: auto;
+    width: 40%;
+    border: 8px solid #c3ecf7;
+    padding: 52px;
+    background-color: rgb(24, 80, 126);
+    text-shadow: 2px 2px 4px #000000; 
+}
+.center2 {
+    border-radius: 25px;
+    color: rgb(252, 252, 253);
+    font-size: 30px;
+    float: right;
+    margin: auto;
+    width: 40%;
+    border: 8px solid #c3ecf7;
+    padding: 75px;
+    background-color: rgb(24, 80, 126);
+    text-shadow: 2px 2px 4px #000000;
+}

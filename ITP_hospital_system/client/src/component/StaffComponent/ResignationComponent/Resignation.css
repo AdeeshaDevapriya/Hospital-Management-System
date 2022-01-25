@@ -1,0 +1,60 @@
+.stResForm {
+  width: 70rem;
+  height: 40rem;
+  background-color: rgb(255, 255, 255);
+  margin: auto;
+  box-shadow: 5px 5px 5px 5px #aaaaaa;
+  margin-top: 30px;
+}
+
+.stResForm h2 {
+  position: absolute;
+  margin-left: 380px;
+  margin-top: 30px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: 900;
+}
+
+.img-foot {
+  max-width: 70rem;
+  margin-top: -150px;
+}
+
+.stFormrow {
+  margin-top: -500px;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.stThank {
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.stResSendbtn {
+  background-color: #23345d;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  margin-top: 150px;
+  margin-left: 60rem;
+}
+
+.stResSendbtn:hover {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
